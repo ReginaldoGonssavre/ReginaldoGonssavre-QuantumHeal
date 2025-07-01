@@ -2,3 +2,9 @@ fastapi
 uvicorn[standard]
 qiskit
 pydantic
+
+# Quantum Chemistry & Nature
+qiskit-nature
+qiskit-aer
+pyscf
+numpy
